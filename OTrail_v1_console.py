@@ -1,8 +1,11 @@
-# main.py file - Connor 1.1 - Oregon trail project 1.1
+# Adrian Martinez, Connor Crowell, Carlos Ayalay
+# main.py file - Oregon trail project 1.1
 #Oregon Trail game! non-GUI version. Still has some kinks to work out. Works very much like the GUI version.
 
-# imports
+# Imports
 import random
+# - random
+# - For use of random numbers
 
 class OregonTrailGame:
     def __init__(self):
